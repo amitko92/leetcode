@@ -1,4 +1,4 @@
-import q_168_excel_sheet_column_title.Solution;
+import q_342_power_of_four.Solution;
 
 public class Main {
     public static void main(String[] args) {
@@ -8,6 +8,6 @@ public class Main {
 
         Solution solution = new Solution();
 
-        solution.test();
+        solution.test1();
     }
 }
